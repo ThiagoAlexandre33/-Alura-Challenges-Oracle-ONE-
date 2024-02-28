@@ -1,6 +1,6 @@
 <div align="center">
 
-# :lock: Decodificador de Texto - Alura Challenges Oracle ONE :lock:
+#  Decodificador de Texto - Alura Challenges Oracle ONE 
 
 #challengeonedecodificador6
 
