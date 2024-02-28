@@ -1,15 +1,25 @@
-# -Alura-Challenges-Oracle-ONE-
+<div align="center">
 
-Sobre:
-Este é um projeto do desafio de Decodificador de Texto da Alura Challenges no programa Oracle Next Education - Turma 6. Consiste em criptografar e descriptografar um texto e copiar o resultado de ambos.
+# :lock: Decodificador de Texto - Alura Challenges Oracle ONE :lock:
 
-Funcionalidades:
-Criptografar texto digitado.
-Descriptografar texto digitado.
-Copiar texto de saída.
+#challengeonedecodificador6
+
+</div>
+
+## Sobre:
+
+Este é um projeto do desafio de Decodificador de Texto da Alura Challenges no programa Oracle Next Education - Turma 6.
+Consiste em criptografar e descriptografar um texto e copiar o resultado de ambos.
+
+## Funcionalidades:
+
+-   Criptografar texto digitado.
+-   Descriptografar texto digitado.
+-   Copiar texto de saída.
 
 
+## Ferramentas utilizadas:
 
-Ferramentas utilizadas:
 JavaScript - HTML - CSS
+rojeto do desafio de Decodificador de Texto da Alura Challenges no programa Oracle Next Education - Turma 6. Consiste em criptografar e descriptografar um texto e copiar o resultado de ambos.
 
