@@ -21,4 +21,4 @@ Consiste em criptografar e descriptografar um texto e copiar o resultado de ambo
 
 JavaScript - HTML - CSS
 
-Link para acessar o projeto http://127.0.0.1:5500/index.html
+O deploy do projeto pode ser visualizado através do seguinte link:(http://127.0.0.1:5500/index.html)http://127.0.0.1:5500/index.html)
