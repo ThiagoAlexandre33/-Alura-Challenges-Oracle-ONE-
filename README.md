@@ -20,5 +20,4 @@ Consiste em criptografar e descriptografar um texto e copiar o resultado de ambo
 ## Ferramentas utilizadas:
 
 JavaScript - HTML - CSS
-rojeto do desafio de Decodificador de Texto da Alura Challenges no programa Oracle Next Education - Turma 6. Consiste em criptografar e descriptografar um texto e copiar o resultado de ambos.
 
