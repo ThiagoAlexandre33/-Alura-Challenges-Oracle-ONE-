@@ -2,7 +2,6 @@
 
 #  Decodificador de Texto - Alura Challenges Oracle ONE 
 
-#challengeonedecodificador6
 
 </div>
 
