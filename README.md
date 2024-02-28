@@ -21,4 +21,4 @@ Consiste em criptografar e descriptografar um texto e copiar o resultado de ambo
 
 JavaScript - HTML - CSS
 
-O deploy do projeto pode ser visualizado através do seguinte link:(https://thiagoalexandre33.github.io/-Alura-Challenges-Oracle-ONE-/)
+O deploy do projeto pode ser visualizado através do seguinte link:https://thiagoalexandre33.github.io/-Alura-Challenges-Oracle-ONE-/
